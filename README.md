@@ -27,12 +27,12 @@ asdasd
 test1 변경 완료
 
 
-ggggggggg
+ㅁㅁㅁㅁㅁㅁㅁㅁ
 
 
-test2 내용 변경 추가
+test1를 제대로 다시 추가했음
 
-test2 
+test1를 제대로 다시 추가했음
 
 11
 
